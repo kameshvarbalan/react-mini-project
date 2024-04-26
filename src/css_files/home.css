@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+
+.home_body {
+    margin:0;
+    top:0;
+    text-align: center;
+    background-image: url(../images/bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.home_head {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.home_header {
+    color: #ff5907;
+    font-size: larger;
+    margin-top: 10px;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.home_navigation {
+    position: absolute; 
+    top: 45%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.home_list {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+
+.home_element{
+    height: 25px;
+    margin: 10px;
+    font-family: var(--font-raleway);
+    font-weight: bold;
+    background-color: black;
+    border-radius:3px;
+    border: 2px solid #ff5907;
+    cursor: pointer;
+    padding-top : 3px;
+}
+
+.home_element:hover {
+    transform: scale(1.01);
+}
+.home_element a {
+    text-decoration: none;
+    color: rgb(244, 65, 238);
+}

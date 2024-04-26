@@ -1,0 +1,30 @@
+.panel{
+    font-family: var(--font-raleway);
+    font-size: medium;
+    font-weight: 700;
+    color: #ff5907;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.308);
+    height: 700px;
+    width: 165px;
+}
+
+.panel_div {
+    height: 50px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 2px solid black;
+    border-top: 0px;
+    cursor: pointer;
+}
+
+.panel_image {
+    height: 30px;
+    width: 35px;
+    margin-right: 5px;
+}

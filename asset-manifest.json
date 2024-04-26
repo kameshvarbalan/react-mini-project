@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-mini-project/static/css/main.2ca71d49.css",
+    "main.js": "/react-mini-project/static/js/main.5c68600a.js",
+    "static/media/bg.jpeg": "/react-mini-project/static/media/bg.e20c79bbdd0e2ce33501.jpeg",
+    "static/media/main.png": "/react-mini-project/static/media/main.6f03ccfe1d952da3140f.png",
+    "static/media/logo.png": "/react-mini-project/static/media/logo.891b0747bac2bbb181ae.png",
+    "static/media/message.png": "/react-mini-project/static/media/message.676c1e9297826df67b7f.png",
+    "static/media/recents.png": "/react-mini-project/static/media/recents.be67af1d3c73f96dabcb.png",
+    "static/media/fun.png": "/react-mini-project/static/media/fun.c1aadf14365e98676903.png",
+    "static/media/explore.png": "/react-mini-project/static/media/explore.cdc7aa01f2a43ba384e6.png",
+    "static/media/newpost.png": "/react-mini-project/static/media/newpost.66604028d8305af271d7.png",
+    "index.html": "/react-mini-project/index.html",
+    "main.2ca71d49.css.map": "/react-mini-project/static/css/main.2ca71d49.css.map",
+    "main.5c68600a.js.map": "/react-mini-project/static/js/main.5c68600a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca71d49.css",
+    "static/js/main.5c68600a.js"
+  ]
+}
